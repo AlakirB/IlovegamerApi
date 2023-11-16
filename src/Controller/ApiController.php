@@ -143,4 +143,10 @@ class ApiController extends AbstractController
 
         return new JsonResponse($this->mergeDbAndCsvDatasV2($dbData, $csvData));
     }
+
+    #[Route('/doc', name: 'app_api_doc')]
+    public function doc(): Response
+    {
+        return $this->render('api/index.html.twig');
+    }    
 }
