@@ -3,3 +3,24 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+
+api_file_reader_csv:
+    path: /api/file-reader/{format}/{file}
+    controller: App\Controller\ApiFileReaderController::index 
+    defaults: 
+        format: csv
+        _format: csv
+
+api_file_reader_xml:
+    path: /api/file-reader/{format}/{file}
+    controller: App\Controller\ApiFileReaderController::index
+    defaults: 
+        format: xml 
+        _format: xml
+
+api_file_reader_json:
+    path: /api/file-reader/{format}/{file}
+    controller: App\Controller\ApiFileReaderController::index
+    defaults: 
+        format: json
+        _format: json

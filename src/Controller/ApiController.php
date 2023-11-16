@@ -4,7 +4,6 @@ namespace App\Controller;
 
 use App\Repository\VideoGameRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Filesystem\Path;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Request;
@@ -147,12 +146,8 @@ class ApiController extends AbstractController
     #[Route('/doc', name: 'app_api_doc')]
     public function doc(): Response
     {
-        return $this->render('api/index.html.twig',
-        ['array' => [
-                'az' => 12,
-                'qs' => 34
-            ]
-        ]
-    );
-    }    
+        return $this->render('api/index.html.twig',[
+            'array' => ['az' => 12,'qs' => 34]
+        ]);
+    }
 }
