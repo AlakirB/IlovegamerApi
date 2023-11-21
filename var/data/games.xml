@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <0>
+         <Game Title>The Legend of Zelda: Breath of the Wild</Game Title>
+         <Release Year>2017</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </0>
+     <1>
+         <Game Title>Super Mario Odyssey</Game Title>
+         <Release Year>2017</Release Year>
+         <Age Minimum Recommended>3+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </1>
+     <2>
+         <Game Title>God of War</Game Title>
+         <Release Year>2018</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </2>
+     <3>
+         <Game Title>The Witcher 3: Wild Hunt</Game Title>
+         <Release Year>2015</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </3>
+     <4>
+         <Game Title>Red Dead Redemption 2</Game Title>
+         <Release Year>2018</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </4>
+     <5>
+         <Game Title>Minecraft</Game Title>
+         <Release Year>2011</Release Year>
+         <Age Minimum Recommended>3+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </5>
+     <6>
+         <Game Title>Grand Theft Auto V</Game Title>
+         <Release Year>2013</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </6>
+     <7>
+         <Game Title>Fortnite</Game Title>
+         <Release Year>2017</Release Year>
+         <Age Minimum Recommended>12+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </7>
+     <8>
+         <Game Title>Dark Souls III</Game Title>
+         <Release Year>2016</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </8>
+     <9>
+         <Game Title>Overwatch</Game Title>
+         <Release Year>2016</Release Year>
+         <Age Minimum Recommended>12+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </9>
+     <10>
+         <Game Title>The Elder Scrolls V: Skyrim</Game Title>
+         <Release Year>2011</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </10>
+     <11>
+         <Game Title>Fallout 4</Game Title>
+         <Release Year>2015</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </11>
+     <12>
+         <Game Title>Doom Eternal</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </12>
+     <13>
+         <Game Title>Among Us</Game Title>
+         <Release Year>2018</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </13>
+     <14>
+         <Game Title>The Last of Us Part II</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </14>
+     <15>
+         <Game Title>Cyberpunk 2077</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </15>
+     <16>
+         <Game Title>Bloodborne</Game Title>
+         <Release Year>2015</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </16>
+     <17>
+         <Game Title>Sekiro: Shadows Die Twice</Game Title>
+         <Release Year>2019</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </17>
+     <18>
+         <Game Title>Animal Crossing: New Horizons</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>3+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </18>
+     <19>
+         <Game Title>Death Stranding</Game Title>
+         <Release Year>2019</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </19>
+     <20>
+         <Game Title>Hollow Knight</Game Title>
+         <Release Year>2017</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </20>
+     <21>
+         <Game Title>Celeste</Game Title>
+         <Release Year>2018</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </21>
+     <22>
+         <Game Title>Persona 5 Royal</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </22>
+     <23>
+         <Game Title>Cuphead</Game Title>
+         <Release Year>2017</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </23>
+     <24>
+         <Game Title>Stardew Valley</Game Title>
+         <Release Year>2016</Release Year>
+         <Age Minimum Recommended>3+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </24>
+     <25>
+         <Game Title>Control</Game Title>
+         <Release Year>2019</Release Year>
+         <Age Minimum Recommended>16+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </25>
+     <26>
+         <Game Title>Hades</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>12+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </26>
+     <27>
+         <Game Title>Spelunky 2</Game Title>
+         <Release Year>2020</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </27>
+     <28>
+         <Game Title>Resident Evil 2 Remake</Game Title>
+         <Release Year>2019</Release Year>
+         <Age Minimum Recommended>18+</Age Minimum Recommended>
+         <Solo Mode>Yes</Solo Mode>
+     </28>
+     <29>
+         <Game Title>Super Smash Bros. Ultimate</Game Title>
+         <Release Year>2018</Release Year>
+         <Age Minimum Recommended>7+</Age Minimum Recommended>
+         <Solo Mode>No</Solo Mode>
+     </29>
+ </root>

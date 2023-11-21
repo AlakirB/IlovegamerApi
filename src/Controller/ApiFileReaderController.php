@@ -22,7 +22,7 @@ class ApiFileReaderController extends AbstractController
 
         $fileContent = file_get_contents($filePath);
 
-        return $this->render('api_file_reader/index.html.twig', [
+        return $this->render("api_file_reader/index.$fileFormat.twig", [
             'file_content' => $fileContent,
         ]);
     }
